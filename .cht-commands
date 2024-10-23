@@ -36,4 +36,5 @@ chmod
 chown
 curl
 kubectl
+cut
 
